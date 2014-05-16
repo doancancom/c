@@ -1,4 +1,4 @@
 c
 =
 
-C Uygulamaları
+http://doancan.com/c bölümündeki yazılarda anlatılan C uygulamaları.

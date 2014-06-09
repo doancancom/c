@@ -1,7 +1,7 @@
 // Doğancan Kalıpçılar
 // doancan.com
 // http://doancan.com/atolye/c-ile-programlama-dunyasina-giris/
-// 2.Merhaba_Dunya.c
+// 2.1.Merhaba_Dunya.c
 
 #include <stdio.h>
 
